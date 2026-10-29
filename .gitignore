@@ -1,0 +1,15 @@
+# Ignore README as requested
+README.md
+
+# Node modules and build output
+node_modules/
+
+dist/
+
+# Environment files
+.env
+
+# IDE/config files
+.vscode/
+*.log
+.DS_Store
